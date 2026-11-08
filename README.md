@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá 👋, Sou Miguel Galego
 
-<!--
-**spiwskyn0-prog/spiwskyn0-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estagiário em Engenharia de Software | Programador Python & C**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+Eu programo em Python e C, gosto de desenvolver projetos e criar soluções digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/spiwskyn0-prog">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+  </a>
+</p>
+
+---
